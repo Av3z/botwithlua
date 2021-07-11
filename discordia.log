@@ -1,0 +1,15 @@
+2021-07-10 23:40:18 | [INFO]    | Discordia 2.9.1
+2021-07-10 23:40:18 | [INFO]    | Connecting to Discord...
+2021-07-10 23:40:18 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-07-10 23:40:18 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-07-10 23:41:04 | [INFO]    | Discordia 2.9.1
+2021-07-10 23:41:04 | [INFO]    | Connecting to Discord...
+2021-07-10 23:41:04 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-07-10 23:41:04 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-07-10 23:42:47 | [INFO]    | Discordia 2.9.1
+2021-07-10 23:42:47 | [INFO]    | Connecting to Discord...
+2021-07-10 23:42:47 | [INFO]    | Authenticated as Teste2#4239
+2021-07-10 23:42:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-07-10 23:42:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-07-10 23:42:48 | [INFO]    | Shard 0 : Received HELLO
+2021-07-10 23:42:48 | [INFO]    | Shard 0 : Received READY
